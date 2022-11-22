@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ST10090758_CLDV6212_POEpt3c": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7078",
+      "launchBrowser": false
+    }
+  }
+}
